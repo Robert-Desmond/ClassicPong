@@ -5,6 +5,8 @@ Two players are required. I had it to where the right paddle would just follow t
 I will most likely come back to this project in the future to add some basic form of Ai.
 Also, I was going to customize it more but it didn't really look that good so I left the classic style.
 
+IDE used: PyCharm
+
 Tutorial followed: 
 https://www.youtube.com/watch?v=XGf2GcyHPhc
 
